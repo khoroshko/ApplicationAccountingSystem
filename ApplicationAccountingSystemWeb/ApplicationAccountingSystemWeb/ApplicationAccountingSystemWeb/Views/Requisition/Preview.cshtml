@@ -1,0 +1,50 @@
+﻿@model ApplicationAccountingSystemModel.Requisition
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Home";
+    ViewBag.ContentClass = "comingSoonBg";
+}
+
+<style>
+    body {
+        background-image: url('../../Content/img/27092562-papyrus-wallpapers.jpeg');
+        color: #000;
+    }
+</style>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <p class="pull-right">@Model.Status</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="text-center">@Model.DateCreate</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            @Model.Text
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <div class="col-md-6 text-center">
+
+        </div>
+        <div class="col-md-6 text-center">
+            <a class="link" style="color:#ff851b!important; font-size: 40px; padding-left: 200px;" href="/Requisition/List">Закрыть</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+

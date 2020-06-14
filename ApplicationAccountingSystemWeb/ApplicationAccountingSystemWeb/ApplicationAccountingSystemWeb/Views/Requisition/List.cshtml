@@ -1,0 +1,88 @@
+﻿@model ApplicationAccountingSystemWeb.Models.RequisitionViewModel
+@using ApplicationAccountingSystemWeb.Helpers
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<form method="get">
+    <div class="form-inline" style="margin-top: 50px; margin-bottom: 50px;">
+        <label class="control-label">Статус: </label>
+        @Html.DropDownList("status", Model.Statuses as SelectList,
+                    htmlAttributes: new { @class = "form-control" })
+
+        <input type="submit" value="Search" class="btn btn-default" style="border-radius: 0px!important" />
+    </div>
+</form>
+
+<div class="box">
+    <div class="box-header with-border">
+    </div>
+    <div class="box-body">
+        <table class="table table-bordered" style="border: 3px solid">
+            <tr>
+                <td style="text-align:center">№</td>
+                <td style="text-align:center">Заявка</td>
+                <td style="text-align:center">Статус</td>
+                <td style="text-align:center">Дата создания</td>
+                <td style="text-align:center">Дата закрытия</td>
+                <td style="text-align:center">Примечание администратора</td>
+
+
+                @if (User.IsInRole("executor"))
+                {
+                    <td style="text-align:center">Имя пользователь</td>
+                    <td style="text-align:center">Редактировать</td>
+                }
+            </tr>
+            @{var index = 1;}
+            @foreach (var item in Model.Requisitions)
+            {
+                <tr>
+                    <td style="text-align:center">@index</td>
+                    <td style="font-size: 50px; text-align:center"><a>@Html.ActionLink(item.Text, "Preview", new { id = item.Id }, null)</a></td>
+                    <td style="font-size: 25px; text-align:center">@item.Status.Name</td>
+                    <td style="font-size: 25px; text-align:center">@item.DateCreate</td>
+                    <td style="font-size: 25px; text-align:center">@item.DateChange</td>
+                    <td style="font-size: 25px; text-align:center">@item.Note</td>
+                    @if (User.IsInRole("executor"))
+                    {
+                        <td style="font-size: 25px; text-align:center">@item.UserCreate</td>
+                        <td style="font-size: 25px; text-align:center"><a>@Html.ActionLink("Edit", "Edit", new { id = item.Id }, null)</a></td>
+                    }
+                </tr>
+                index++;
+            }
+        </table>
+        <br />
+    </div>
+    <div class="btn-group">
+        @Html.PageLinks(Model.PageInfo, x => Url.Action("List", new { page = x }))
+    </div>
+</div>
+
+@*@section Scripts{
+
+        <script src="~/Scripts/plugins/bootstrap-multiselect/js/bootstrap-multiselect.js"></script>
+         daterangepicker
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.11.2/moment.min.js"></script>
+        <script src="~/Scripts/plugins/daterangepicker/daterangepicker.js"></script>
+
+        <script>
+            pageFilter.url = "/Requisition/List";
+
+            $(document).ready(function () {
+                getListByFilters1('filter');
+            });
+        </script>
+    }*@
+
+
+
+
+
+
+
+
+
+

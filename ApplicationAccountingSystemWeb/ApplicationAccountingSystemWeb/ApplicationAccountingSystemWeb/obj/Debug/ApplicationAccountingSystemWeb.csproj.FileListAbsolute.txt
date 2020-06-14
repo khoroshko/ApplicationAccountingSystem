@@ -1,0 +1,234 @@
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ApplicationInsights.config
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\csc.exe
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\vbc.exe
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\VBCSCompiler.exe
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ApplicationAccountingSystemWeb.dll.config
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ApplicationAccountingSystemWeb.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ApplicationAccountingSystemWeb.pdb
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Antlr3.Runtime.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\EntityFramework.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\EntityFramework.SqlServer.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.Agent.Intercept.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.DependencyCollector.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.Web.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.WindowsServer.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.ApplicationInsights.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Facebook.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Twitter.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Newtonsoft.Json.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Owin.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Helpers.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Mvc.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Optimization.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Razor.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.WebPages.Deployment.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.WebPages.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.WebPages.Razor.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\WebGrease.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.DependencyCollector.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.Web.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.WindowsServer.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.ApplicationInsights.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Helpers.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Mvc.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Optimization.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Razor.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.WebPages.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.WebPages.Deployment.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.WebPages.Razor.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Antlr3.Runtime.pdb
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Newtonsoft.Json.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\EntityFramework.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\EntityFramework.SqlServer.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Facebook.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Twitter.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\System.Web.Helpers.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\System.Web.Mvc.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\System.Web.Optimization.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\System.Web.Razor.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\System.Web.WebPages.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\EntityFramework.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.Owin.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.Owin.Security.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\obj\Debug\ApplicationAccountingSystemWeb.csprojResolveAssemblyReference.cache
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\obj\Debug\ApplicationAccountingSystemWeb.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\obj\Debug\ApplicationAccountingSystemWeb.pdb
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Mono.Security.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Npgsql.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Npgsql.EntityFramework.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Npgsql.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Npgsql.EntityFramework.xml
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\de\Npgsql.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\es\Npgsql.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\fi\Npgsql.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\fr\Npgsql.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ja\Npgsql.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\zh-CN\Npgsql.resources.dll
+E:\My\Visual Studio 2015\Projects\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\OpenPop.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\obj\Debug\ApplicationAccountingSystemWeb.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\obj\Debug\ApplicationAccountingSystemWeb.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ApplicationAccountingSystemWeb.dll.config
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ApplicationAccountingSystemWeb.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ApplicationAccountingSystemWeb.pdb
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ApplicationAccountingSystemBusiness.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ApplicationAccountingSystemModel.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\EntityFramework.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Mono.Security.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Npgsql.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Npgsql.EntityFramework.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\OpenPop.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Owin.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\WebGrease.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ApplicationAccountingSystemBusiness.pdb
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ApplicationAccountingSystemBusiness.dll.config
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ApplicationAccountingSystemModel.pdb
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ApplicationAccountingSystemModel.dll.config
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Npgsql.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Npgsql.EntityFramework.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\EntityFramework.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\de\Npgsql.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\es\Npgsql.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\fi\Npgsql.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\fr\Npgsql.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ja\Npgsql.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\zh-CN\Npgsql.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\System.Web.Razor.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\EntityFramework.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\obj\Debug\ApplicationAccountingSystemWeb.csproj.CopyComplete
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\obj\Debug\ApplicationAccountingSystemWeb.dll
+C:\Users\USER\Desktop\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\ApplicationAccountingSystemWeb\obj\Debug\ApplicationAccountingSystemWeb.pdb

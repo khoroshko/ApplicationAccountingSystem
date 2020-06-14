@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model ApplicationAccountingSystemModel.Requisition
+<h2>Заяка </h2>
+@using (Html.BeginForm("Edit", "Requisition", FormMethod.Post))
+{
+    <input type="hidden" value="@ViewBag.Id" name="Id" />
+    <p>Примечание к заявке</p>
+    <input type="text" name="Title" value="@Model.Note" />
+    <p>@Html.DropDownListFor(model => model.StatusId, ViewBag.Subjects as SelectList)</p>
+    <input type="submit" value="Сохранить" />
+}
+
+
+

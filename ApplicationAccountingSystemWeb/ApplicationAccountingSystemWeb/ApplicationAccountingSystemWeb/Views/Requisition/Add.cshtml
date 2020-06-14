@@ -1,0 +1,16 @@
+﻿@model ApplicationAccountingSystemModel.Requisition
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <form method="post" action="">
+        <p>Текст заявки</p>
+        <input type="text" name="Text" />
+        <p>Исполнитель</p>
+        <input type="text" name="UserExecutorId" />
+        <input type="submit" value="Отправить" />
+    </form>
+
+
+
